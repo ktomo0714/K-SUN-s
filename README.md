@@ -343,19 +343,6 @@ K-SUN-s/
 - [ ] 季節変動の考慮
 - [ ] リスク分析（楽観・通常・悲観シナリオ）
 
----
-
-## 🤝 コントリビューション
-
-貢献を歓迎します！以下の方法で参加できます：
-
-1. このリポジトリをフォーク
-2. フィーチャーブランチを作成 (`git checkout -b feature/AmazingFeature`)
-3. 変更をコミット (`git commit -m 'Add some AmazingFeature'`)
-4. ブランチにプッシュ (`git push origin feature/AmazingFeature`)
-5. プルリクエストを作成
-
----
 
 ## 📝 注意事項
 
@@ -365,36 +352,4 @@ K-SUN-s/
 - 現在はルールベースのアルゴリズムで結果を生成しています（AI機能は将来実装予定）
 
 ---
-
-## 📄 ライセンス
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 開発チーム
-
-**K SUN's**
-
-- プロジェクト: おみせ開業AI
-- バージョン: 0.1.0
-- 作成日: 2025年11月
-
----
-
-## 📞 お問い合わせ
-
-プロジェクトに関するご質問やご提案は、GitHubのIssuesにてお願いします。
-
-- GitHub: [https://github.com/ktomo0714/K-SUN-s](https://github.com/ktomo0714/K-SUN-s)
-- Issues: [https://github.com/ktomo0714/K-SUN-s/issues](https://github.com/ktomo0714/K-SUN-s/issues)
-
----
-
-<div align="center">
-
-**Made with ❤️ by K SUN's**
-
-⭐ このプロジェクトが役に立った場合は、スターをつけていただけると嬉しいです！
-
 </div>
